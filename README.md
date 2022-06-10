@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @probal
-- 👀 I’m interested in Java, Spring Boot, Data Science, Python 
+- 👀 I’m interested in Java, Spring Boot, Python, Data Science
 - 🌱 I’m currently working in Spring and Spring Boot
 - 📫 How to reach me @probal25 [Facebook/Instagram] probal25@hotmail.com
 
